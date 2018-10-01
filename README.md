@@ -1,7 +1,11 @@
 My Name is Thotho Totokani Mabiku 
 
 # C-Datascience-SMUMSDShomework-WH5
-This Folder contains Details of my HW5. You will find the answers of the question 1 ,2 and 3 below.
+This folder contains the detail of my Home Work 5. You will find the answer of the question 1 ,2 and 3 below.
+They are three enlcosed files:
+1. R code file 
+2. Rmarkadown html file 
+3. The CSV file of the question 3 named Itsagirl.csv
 
 Questions1
 
